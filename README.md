@@ -49,7 +49,7 @@ If you run the `.exe` version — the JSON file will be created in the same fold
 
 ## 🖼️ GUI Example
 
-![screenshot]([(https://imgur.com/a/rkN5swZ))  
+![screenshot](gui.png)  
 
 ---
 
